@@ -1,3 +1,8 @@
+
+
+mlsn.518a332c3b889e6649d912cf7b3df3221de71344ab2e152af3c50fc54d50259c
+
+
 <a href="https://www.mailersend.com"><img src="https://www.mailersend.com/images/logo.svg" width="200px"/></a>
 
 MailerSend Java SDK
